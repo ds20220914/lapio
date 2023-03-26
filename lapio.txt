@@ -1,4 +1,5 @@
-<<<<<<< Updated upstream terveisiä koneelta
+terveisiä koneelta ja terveisiä githubista
+>>>>>>> refs/remotes/origin/main
 moi eka moi
 moi toka haha
 =======
