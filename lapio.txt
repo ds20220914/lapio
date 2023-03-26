@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 moi eka moi
 moi toka
+=======
+moi eka
+moi toka ok
+>>>>>>> Stashed changes
 
