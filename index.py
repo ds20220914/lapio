@@ -11,4 +11,6 @@ logger("lopetetaan")
 x = int(input("luku 1: "))
 y = int(input("luku 2: "))
 >>>>>>> laskut
-hei
+<<<<<<< HEAD
+okk
+>>>>>>> toka
